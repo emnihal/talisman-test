@@ -1,0 +1,3 @@
+aws_secret="AKIAIMNOJVGFDXXXE4UI"
+
+admin:admin@123
